@@ -8,6 +8,11 @@
     	- https://atenea.tebex.io/package/6956480
     	- https://atenea.tebex.io/package/6692256
 	 	- https://atenea.tebex.io/package/6647728
+
+**LOCATIONS:**
+
+    - Location: 88.8060, 6415.2510, 31.3242, 181.8229
+  
 **IMAGES:**
 ![2](https://i.imgur.com/1zT9qar.jpeg)
 ![3](https://i.imgur.com/CZXyZNL.jpeg)
