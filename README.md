@@ -1,22 +1,17 @@
-Thank you for your purchase!
-We hope you enjoy this ymap ♥
+![1](https://i.imgur.com/kjkI2fK.jpeg)
 
-Author: Atenea Store | Atenea
-
--- IMPORTANT --
-/Please read below.
-
-► If you rename the folder or files I will not be responsible if it does not work correctly afterwards.
-
-► If you sell any of our products, you will be blacklisted and other developers will be notified.
-
-► If you encounter any problems, errors, or have any questions related to our ymap, JOIN OUR DISCORD.
-Don't hesitate to open a ticket, we’ll assist you as quickly as possible.
-
-				https://discord.gg/mam8Nmg49d
-
-				SCRIPTS AND REDESIGNS
-				https://discord.gg/S5WZ7ecKDc
-
-Make sure you’ve already READ our post on FiveM/Tebex/Discord.
-Atenea from the Atenea Store Team.
+**DESCRIPTION**
+    
+    - Exterior mapping.
+    - 100% Optimised.
+	- Ideal:
+    	- https://atenea.tebex.io/package/6956480
+    	- https://atenea.tebex.io/package/6692256
+	 	- https://atenea.tebex.io/package/6647728
+**IMAGES:**
+![2](https://i.imgur.com/1zT9qar.jpeg)
+![3](https://i.imgur.com/CZXyZNL.jpeg)
+![4](https://i.imgur.com/Ju2da0n.jpeg)
+![5](https://i.imgur.com/53IWW6L.jpeg)
+![6](https://i.imgur.com/NyHYgRP.jpeg)
+![7](https://i.imgur.com/pgCWWF2.jpeg)
